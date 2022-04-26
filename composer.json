@@ -1,0 +1,17 @@
+{
+  "name": "multiexception/multiexception",
+  "description": "Test composer",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aleksey Dvornikov",
+      "email": "lesha.dvornikov1@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
